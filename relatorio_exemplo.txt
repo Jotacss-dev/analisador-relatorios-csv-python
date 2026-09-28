@@ -1,0 +1,15 @@
+RELATÓRIO DE PRODUTIVIDADE
+==============================
+Atividades: 5
+Horas registradas: 10.00
+Taxa de conclusão: 60.0%
+
+Horas por pessoa:
+- Ana: 2.50 h
+- Jailton: 7.50 h
+
+Horas por categoria:
+- Atendimento: 1.50 h
+- Entrada de dados: 3.00 h
+- Pesquisa: 3.50 h
+- Relatório: 2.00 h
